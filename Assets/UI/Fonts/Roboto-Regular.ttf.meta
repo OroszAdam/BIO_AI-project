@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 81afe5dee307449428929d3181429775
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roboto
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3d3ff095c1b4147489ccb4623cfe5a25, type: 3}
+  - {fileID: 12800000, guid: 83647ec214bcd2449bee1664c1792361, type: 3}
+  - {fileID: 12800000, guid: 9d536ef58b24d4741b65341565dc62c7, type: 3}
+  - {fileID: 12800000, guid: 2a29e27936eb547458f646f71125b264, type: 3}
+  - {fileID: 12800000, guid: b2ea3b3f1765e544b9eb5bd1a93a91ce, type: 3}
+  - {fileID: 12800000, guid: 7509ba5afd9f8224f8d154b57c678ae5, type: 3}
+  - {fileID: 12800000, guid: 447b19c98276100409b6759aab7b0c3c, type: 3}
+  - {fileID: 12800000, guid: 066d06014ca8c6941b497563931dff16, type: 3}
+  - {fileID: 12800000, guid: 5ced95dfc833392438b2c2fa339f058a, type: 3}
+  - {fileID: 12800000, guid: 696a3241dd3b3394e8b1141d74c1d2a6, type: 3}
+  - {fileID: 12800000, guid: 8af46fc495acbd947a092d7b59d0f34b, type: 3}
+  - {fileID: 12800000, guid: a51a3aebb43ac044989270407476b208, type: 3}
+  - {fileID: 12800000, guid: 3750c318f40cab44a97d3a81beaefeb3, type: 3}
+  - {fileID: 12800000, guid: 70dc4d84c1e12904481667c67c6d26a9, type: 3}
+  - {fileID: 12800000, guid: 52b696be95f51314687eee99447c0404, type: 3}
+  - {fileID: 12800000, guid: dfb97a9307a577a41bcacba34b9a7e32, type: 3}
+  - {fileID: 12800000, guid: f95147a9bab9fe649b8070170fa7ebd2, type: 3}
+  - {fileID: 12800000, guid: 30dc370b164eefc43b95744fc796dad0, type: 3}
+  - {fileID: 12800000, guid: c839255fc8f6b4b4d90bf8c1af9f9bd1, type: 3}
+  - {fileID: 12800000, guid: 60ff2fcdb12fd1b46a50e7851bbb4992, type: 3}
+  - {fileID: 12800000, guid: 35d26cb0fb189fd4681f2341cdeeb107, type: 3}
+  - {fileID: 12800000, guid: 19a9abb883540be48b75b951a927ae03, type: 3}
+  - {fileID: 12800000, guid: 5e63515167650a541b309ba3bfd4db3d, type: 3}
+  - {fileID: 12800000, guid: 1062c701058745940ae5dca6219c64c8, type: 3}
+  - {fileID: 12800000, guid: d93c1bc57fdf1ac4dad1bf04fac05464, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

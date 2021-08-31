@@ -1,0 +1,1106 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1165; Version 2004; 64bit' Language: 'en' Physical Memory: 32623 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Unity projects/BIO_AI_PROJECT/BIO_AI_project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+11933
+Successfully changed project path to: C:/Unity projects/BIO_AI_PROJECT/BIO_AI_project
+C:/Unity projects/BIO_AI_PROJECT/BIO_AI_project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 116.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Unity projects/BIO_AI_PROJECT/BIO_AI_project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M2000M (ID=0x13b0)
+    Vendor:   NVIDIA
+    VRAM:     4053 MB
+    Driver:   27.21.14.5266
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002217 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 105.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.158 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004208 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2762 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.0 MB.
+System memory in use after: 104.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 3213.
+Total: 3.139400 ms (FindLiveObjects: 0.336500 ms CreateObjectMapping: 0.298100 ms MarkObjects: 2.061800 ms  DeleteObjects: 0.442100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/Track/Curve.prefab
+  artifactKey: Guid(3839c98f52e1d844495ac2cb48aca29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Track/Curve.prefab using Guid(3839c98f52e1d844495ac2cb48aca29e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00688994f018dacfbab5587f4d5e2723') in 0.162634 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3223.
+Total: 2.717000 ms (FindLiveObjects: 0.239300 ms CreateObjectMapping: 0.146900 ms MarkObjects: 2.000800 ms  DeleteObjects: 0.328700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3226.
+Total: 3.693700 ms (FindLiveObjects: 0.400100 ms CreateObjectMapping: 0.352400 ms MarkObjects: 2.478400 ms  DeleteObjects: 0.462000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.743957 seconds.
+  path: Assets/Scripts/AI/Evolution/EvolutionManager3D.cs
+  artifactKey: Guid(e4fca7cf184830e4f8dc1b3594f69320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/Evolution/EvolutionManager3D.cs using Guid(e4fca7cf184830e4f8dc1b3594f69320) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039e7bae4517e28301c530887c71b041') in 0.019863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.728141 seconds.
+  path: Assets/Scripts/Simulation/TrackManager3D.cs
+  artifactKey: Guid(4001141931fac5440ae0f732fe6c9d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/TrackManager3D.cs using Guid(4001141931fac5440ae0f732fe6c9d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40e5ef1cbc02be41e3ebee35aac7795') in 0.009217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.458410 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd347d2d02a7a955de991d6b2874ea19') in 0.009376 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005201 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.103 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3229.
+Total: 4.032800 ms (FindLiveObjects: 0.355200 ms CreateObjectMapping: 0.316300 ms MarkObjects: 2.938900 ms  DeleteObjects: 0.420900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.129581 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04f678b07a0fbbd6b60af0fc4ad42d7') in 0.008903 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004823 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.9 MB.
+System memory in use after: 106.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3232.
+Total: 3.361600 ms (FindLiveObjects: 0.303200 ms CreateObjectMapping: 0.222600 ms MarkObjects: 2.301200 ms  DeleteObjects: 0.532600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3235.
+Total: 3.711700 ms (FindLiveObjects: 0.308500 ms CreateObjectMapping: 0.273900 ms MarkObjects: 2.744300 ms  DeleteObjects: 0.383200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.597776 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d2bca4f94c4542d70a46c543882cc2') in 0.008722 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004013 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3238.
+Total: 3.685500 ms (FindLiveObjects: 0.242100 ms CreateObjectMapping: 0.254700 ms MarkObjects: 2.776900 ms  DeleteObjects: 0.410600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.749396 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7e531ad74d5664fc12e80e205fb1e5') in 0.006737 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003409 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.0 MB.
+System memory in use after: 106.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3241.
+Total: 3.708800 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.185300 ms MarkObjects: 2.669800 ms  DeleteObjects: 0.522000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.234029 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdd18ab7aacc6c4801db6a5f4deae57') in 0.008189 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.281 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.1 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3244.
+Total: 2.724000 ms (FindLiveObjects: 0.221300 ms CreateObjectMapping: 0.142000 ms MarkObjects: 1.980700 ms  DeleteObjects: 0.379000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004139 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.1 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3247.
+Total: 2.842800 ms (FindLiveObjects: 0.238800 ms CreateObjectMapping: 0.155900 ms MarkObjects: 2.058800 ms  DeleteObjects: 0.386500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.951352 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c8f6dfa8e9ef8548264dece650afff') in 0.008967 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.1 MB.
+System memory in use after: 106.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3250.
+Total: 2.759300 ms (FindLiveObjects: 0.239700 ms CreateObjectMapping: 0.129100 ms MarkObjects: 1.953800 ms  DeleteObjects: 0.435700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 229.207162 seconds.
+  path: Assets/Scripts/Simulation/CarController3D.cs
+  artifactKey: Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Simulation/CarController3D.cs using Guid(ce931cb6e44d3f746a7dc8d8e3e36ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f751b69ad5d6c7f21e76418b0dce26') in 0.006837 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003582 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.022 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.2 MB.
+System memory in use after: 106.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3253.
+Total: 2.950400 ms (FindLiveObjects: 0.304800 ms CreateObjectMapping: 0.134300 ms MarkObjects: 2.137400 ms  DeleteObjects: 0.372800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003392 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 1.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.2 MB.
+System memory in use after: 106.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3256.
+Total: 5.765600 ms (FindLiveObjects: 0.380900 ms CreateObjectMapping: 0.269100 ms MarkObjects: 4.523800 ms  DeleteObjects: 0.590000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.266429 seconds.
+  path: Assets/Scenes/GUI3D.unity
+  artifactKey: Guid(e3a4bad42e941794c9d0be504bf0f750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GUI3D.unity using Guid(e3a4bad42e941794c9d0be504bf0f750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7f5296a3bb46face39ebf53ffd5893') in 0.019841 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.054 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.2 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 2.654200 ms (FindLiveObjects: 0.223500 ms CreateObjectMapping: 0.142600 ms MarkObjects: 1.913000 ms  DeleteObjects: 0.374000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.771258 seconds.
+  path: Assets/Scenes/Tracks/Track2.unity
+  artifactKey: Guid(3806cedf0bed389438e07f31ed498921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Tracks/Track2.unity using Guid(3806cedf0bed389438e07f31ed498921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f2a8f761de12f9144b5ba2432f0b3b') in 0.022173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.545034 seconds.
+  path: Assets/Scenes/Tracks/Track1.unity
+  artifactKey: Guid(c5878d40ab5cdc94fb2a90b1e3b52f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Tracks/Track1.unity using Guid(c5878d40ab5cdc94fb2a90b1e3b52f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01c1462a6f6c38147951a556b72a41c') in 0.009543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.562123 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd967134ba5d2ebd70f1b0f6ef7d19868') in 0.010082 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.2 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3262.
+Total: 2.588900 ms (FindLiveObjects: 0.216500 ms CreateObjectMapping: 0.161700 ms MarkObjects: 1.860000 ms  DeleteObjects: 0.349900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003454 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3265.
+Total: 2.684000 ms (FindLiveObjects: 0.213500 ms CreateObjectMapping: 0.137500 ms MarkObjects: 1.960000 ms  DeleteObjects: 0.372200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.307471 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04f0716f783c8ce8cef3ae09a29d52f') in 0.018265 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.061 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3268.
+Total: 3.146400 ms (FindLiveObjects: 0.301400 ms CreateObjectMapping: 0.187300 ms MarkObjects: 2.246000 ms  DeleteObjects: 0.410400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004067 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.198 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3271.
+Total: 3.797000 ms (FindLiveObjects: 0.395900 ms CreateObjectMapping: 0.229300 ms MarkObjects: 2.786500 ms  DeleteObjects: 0.383900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3274.
+Total: 2.490000 ms (FindLiveObjects: 0.236100 ms CreateObjectMapping: 0.138300 ms MarkObjects: 1.722600 ms  DeleteObjects: 0.392200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.146 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3277.
+Total: 2.760900 ms (FindLiveObjects: 0.243800 ms CreateObjectMapping: 0.166800 ms MarkObjects: 1.975500 ms  DeleteObjects: 0.373800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.3 MB.
+System memory in use after: 107.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3280.
+Total: 2.487000 ms (FindLiveObjects: 0.223300 ms CreateObjectMapping: 0.131000 ms MarkObjects: 1.732900 ms  DeleteObjects: 0.399100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 353.980016 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(48c167ebc372b17408b9c27b49a58d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(48c167ebc372b17408b9c27b49a58d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119dc5e9ad67b90ada84173a846e42f2') in 0.114161 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.242 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3284.
+Total: 2.922400 ms (FindLiveObjects: 0.388100 ms CreateObjectMapping: 0.237400 ms MarkObjects: 1.913100 ms  DeleteObjects: 0.382800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3287.
+Total: 2.672000 ms (FindLiveObjects: 0.288400 ms CreateObjectMapping: 0.147000 ms MarkObjects: 1.865400 ms  DeleteObjects: 0.370200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.739634 seconds.
+  path: Assets/Scenes/Tracks/Track9_ISLAND.unity
+  artifactKey: Guid(62f39126749ac204b9150a8256f1fa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Tracks/Track9_ISLAND.unity using Guid(62f39126749ac204b9150a8256f1fa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8d46e980c2cc9585af95888f17bd9b') in 0.022324 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003310 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 3.089000 ms (FindLiveObjects: 0.260500 ms CreateObjectMapping: 0.147500 ms MarkObjects: 2.275100 ms  DeleteObjects: 0.404600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.091262 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916c92fd06f156f45adcd12c847fe803') in 0.017587 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3293.
+Total: 2.480700 ms (FindLiveObjects: 0.226700 ms CreateObjectMapping: 0.121800 ms MarkObjects: 1.766500 ms  DeleteObjects: 0.364400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.054 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3296.
+Total: 4.286500 ms (FindLiveObjects: 0.311900 ms CreateObjectMapping: 0.317500 ms MarkObjects: 3.212400 ms  DeleteObjects: 0.443400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005470 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3299.
+Total: 2.794700 ms (FindLiveObjects: 0.255900 ms CreateObjectMapping: 0.195300 ms MarkObjects: 1.970100 ms  DeleteObjects: 0.372000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.773760 seconds.
+  path: Assets/Scripts/AI/Evolution/GeneticAlgorithm.cs
+  artifactKey: Guid(62d00f4fa17fc404d8518b8905ece20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/Evolution/GeneticAlgorithm.cs using Guid(62d00f4fa17fc404d8518b8905ece20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbcb37c6905052f2c05245837d2ba60') in 0.009602 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.075 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.5 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3302.
+Total: 4.549500 ms (FindLiveObjects: 0.241200 ms CreateObjectMapping: 0.140500 ms MarkObjects: 3.580500 ms  DeleteObjects: 0.585800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3305.
+Total: 3.240000 ms (FindLiveObjects: 0.441700 ms CreateObjectMapping: 0.212300 ms MarkObjects: 2.124600 ms  DeleteObjects: 0.460200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004284 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.065 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.5 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3308.
+Total: 4.632400 ms (FindLiveObjects: 0.452600 ms CreateObjectMapping: 0.204800 ms MarkObjects: 3.356600 ms  DeleteObjects: 0.616900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 287.763343 seconds.
+  path: Assets/Scripts/General/GameStateManager3D.cs
+  artifactKey: Guid(62e90042f9c6b844d98b1a85af06d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/General/GameStateManager3D.cs using Guid(62e90042f9c6b844d98b1a85af06d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a2f9da476ad23c01ac229ecc08a26a4') in 0.012465 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.5 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 3.282500 ms (FindLiveObjects: 0.276700 ms CreateObjectMapping: 0.206500 ms MarkObjects: 2.358800 ms  DeleteObjects: 0.439000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.389370 seconds.
+  path: Assets/Scripts/General/GameStateManager3D.cs
+  artifactKey: Guid(62e90042f9c6b844d98b1a85af06d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/General/GameStateManager3D.cs using Guid(62e90042f9c6b844d98b1a85af06d490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008b58f45a058a0d0d97320af1623c63') in 0.008996 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004350 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3314.
+Total: 2.636600 ms (FindLiveObjects: 0.243400 ms CreateObjectMapping: 0.157000 ms MarkObjects: 1.834300 ms  DeleteObjects: 0.401100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.332823 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(00722b79459f4054aa7d70ce677b50d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725df45b30158a5b31fcb9b92687b942') in 0.015639 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.136 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3317.
+Total: 2.770900 ms (FindLiveObjects: 0.235500 ms CreateObjectMapping: 0.146200 ms MarkObjects: 2.013300 ms  DeleteObjects: 0.374900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003794 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.053 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.5 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3320.
+Total: 3.596100 ms (FindLiveObjects: 0.342000 ms CreateObjectMapping: 0.189300 ms MarkObjects: 2.753000 ms  DeleteObjects: 0.310700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/URP/Standard': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Minimalist/BRP/Standard LocalSpace': fallback shader 'Minimalist/Standard' not found
+Shader 'Minimalist/URP/Standard SRP Batched': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2741 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.4 MB.
+System memory in use after: 107.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3323.
+Total: 3.020500 ms (FindLiveObjects: 0.238400 ms CreateObjectMapping: 0.143100 ms MarkObjects: 2.160500 ms  DeleteObjects: 0.477600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
